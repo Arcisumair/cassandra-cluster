@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cassandra-cluster:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-11-02T02:20:35.90820886-07:00"
+    description: A Helm chart for Kubernetes
+    digest: d66576b442a85dd4cd010a1dff9a5990e8632c64f0b0987b4c8fc4e47bdb8156
+    name: cassandra-cluster
+    type: application
+    urls:
+    - cassandra-cluster-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-11-02T02:20:35.906603129-07:00"
